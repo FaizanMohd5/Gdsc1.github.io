@@ -1,1 +1,1 @@
-# Gdsc1.github.io
+# Resume.github.io
