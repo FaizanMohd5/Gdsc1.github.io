@@ -1,0 +1,49 @@
+body
+{
+    background-image: url(https://assets-global.website-files.com/6009ec8cda7f305645c9d91b/60108123d58c7f4754c2b6b5_6002086f72b727df6d01df3b_business-website-examples.jpeg);;
+}
+.container
+{
+    background-image: url(https://assets-global.website-files.com/6009ec8cda7f305645c9d91b/60108123d58c7f4754c2b6b5_6002086f72b727df6d01df3b_business-website-examples.jpeg);
+}
+#box{
+    float: right;
+    margin: 15px;
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    background-color: rgb(110, 185, 211);
+    padding: 10px;
+}
+.spec{
+    background-color: rgb(109, 96, 226);
+    padding: 15px;
+    color: white;
+}
+.child
+{
+    color: rgb(0, 0, 0);
+    margin-left: 32%;
+    margin-right: 78%;
+    padding: 18px ;
+    border: 10px double rgb(109, 109, 201);
+    border-radius: 10px;
+    width: 500px;
+    background-color: rgba(252, 252, 252, 0.411);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 450;
+    
+}
+ol,li,.name,.course,.classs,.roll,.interest,.hobies,.skills,.education
+{
+    background-color: rgba(252, 252, 252, 0);
+    font-size: 115%;
+}
+.name
+{
+    font-size: 20px;
+}
+li
+{
+    font-size: 115%;
+}
